@@ -1,5 +1,6 @@
 # Hi there, I'm Peter Szepesi! 👋
 
+I'm a **Computer Science Student** at the **Technical University of Košice**. I am passionate about software development, from crafting intuitive frontends to designing robust backend systems. I love bridging the gap between academic theory and real-world application.
 
 ### 💻 Technologies and Tools
 
@@ -20,4 +21,4 @@
 
 ### 📫 Connect with me
 - **LinkedIn:** [www.linkedin.com/in/peter-szepesi-724581390]
--**Email**: [pszepe1234@gmail.com]
+- **Email**: [pszepe1234@gmail.com]
