@@ -26,3 +26,4 @@ I'm a **Computer Science Student** at the **Technical University of Košice**. I
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/peter-szepesi-724581390](https://www.linkedin.com/in/peter-szepesi-724581390)
 - **Email**: [pszepe1234@gmail.com](mailto:pszepe1234@gmail.com)
+- **Portfolio:** [https://peter-szepesi.com/](https://peter-szepesi.com/)
