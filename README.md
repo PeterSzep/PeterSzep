@@ -24,6 +24,6 @@ I'm a **Computer Science Student** at the **Technical University of Košice**. I
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Connect with me
+- **Portfolio:** [https://peter-szepesi.com/](https://peter-szepesi.com/)
 - **LinkedIn:** [linkedin.com/in/peter-szepesi-724581390](https://www.linkedin.com/in/peter-szepesi-724581390)
 - **Email**: [pszepe1234@gmail.com](mailto:pszepe1234@gmail.com)
-- **Portfolio:** [https://peter-szepesi.com/](https://peter-szepesi.com/)
